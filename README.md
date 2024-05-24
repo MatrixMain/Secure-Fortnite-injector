@@ -3,9 +3,9 @@ A simple made in 20min fortnite loader with keyauth and basic Protections
 
 # How to use ?
 
-**simple change the links in the Injections voids and add the feutures to the void**
+**add your own drivers and its good to go**
 
-pleae dont forget to add keyauth Licencse check to it cause i was to lazy to do it lol
+please dont forget to add keyauth Licencse check to it cause i was to lazy to do it lol
 
 # Is it working?
 
